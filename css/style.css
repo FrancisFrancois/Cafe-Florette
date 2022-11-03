@@ -224,7 +224,6 @@ footer p {
   width: 45%;
   border: 1px solid #ddd;
   border-radius: 5px;
-
 }
 
 .where-text {
@@ -241,6 +240,7 @@ footer p {
 
 .contact-form-container {
   max-width: 600px;
+  padding: 20px;
   margin: auto;
 }
 
