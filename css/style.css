@@ -1,4 +1,5 @@
 /* General */
+
 * {
   margin: 0;
   padding: 0;
@@ -145,7 +146,7 @@ p {
 
 /* value proposition */
 .vp {
-  height: 700px;
+  min-height: 700px;
   background: url(../images/cafe1.jpg)
     center center;
   background-size: cover;
@@ -154,6 +155,7 @@ p {
 
 .vp-content {
   max-width: 600px;
+  padding: 20px;
   padding-top: 150px;
   color: white;
   margin: auto;
@@ -173,7 +175,7 @@ p {
 
 .features {
   overflow: auto;
-  padding: 100px 0px 100px 0px;
+  padding: 100px 20px 100px 20px;
   text-align: center;
 }
 
@@ -192,7 +194,7 @@ p {
 /* reservation */
 
 .reservation {
-  padding: 100px 0px 100px 0px;
+  padding: 100px 20px 100px 20px;
   text-align: center;
 }
 
